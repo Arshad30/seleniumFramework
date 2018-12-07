@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="KnowRegressionTestSuite">
+	
+<test name="HomePageTests">
+    <classes>
+      <class name="tests.homePageTests"> 
+      </class>
+    </classes>
+  </test> 
+
+   
+  
+<!-- <test name="DocumentSubmissionPageTests">
+   <classes>
+     <class name="test.DocumentSubmissionPageTests"> 
+     </class>
+   </classes>
+  </test>   
+  
+  <test name="DocumentVerificationAfterKAPSapprovalTests">
+   <classes>
+     <class name="test.DocumentVerificationAfterKAPSapprovalTests"> 
+     </class>
+   </classes> 
+  </test>-->
+</suite>
